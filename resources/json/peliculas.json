@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Inception",
+        "director": "Christopher Nolan",
+        "release_year": 2010,
+        "idCategory": 1
+    },
+    {
+        "title": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "release_year": 1972,
+        "idCategory": 2
+    },
+    {
+        "title": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "release_year": 2008,
+        "idCategory": 1
+    },
+    {
+        "title": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "release_year": 1994,
+        "idCategory": 3
+    },
+    {
+        "title": "Schindler's List",
+        "director": "Steven Spielberg",
+        "release_year": 1993,
+        "idCategory": 4
+    }
+]
